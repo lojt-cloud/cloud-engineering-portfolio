@@ -1,0 +1,22 @@
+Verification Document
+======================
+Operating System: [Windows 11]
+OS Version:       [x64, 10.0.26200 Build 26200]
+
+2. TOOL VERSIONS
+=================
+VS Code:    [1.122.2]
+Git:        [2.54.0]
+Docker:     [29.4.3]
+Terraform:  [1.15.4]
+AWS CLI:    [2.34.53]
+
+3. CONFIGURATION STATUS
+=======================
+Git configured:      [Yes]
+GitHub SSH keys:     [Yes]
+AWS CLI configured:  [Yes]
+Cloud account active: [Yes]
+
+Issues encountered: [no]
+
